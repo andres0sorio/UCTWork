@@ -1,0 +1,2 @@
+ (!(l1gTauVeto) && !(l1gMIP))
+ (!(l1gTauVeto) && !(l1gMIP))  && ((l1gJetPt - l1gPt)/l1gPt) < 0.2 
